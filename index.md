@@ -1,35 +1,21 @@
+# Lev's First C193 Homework
+
 ## Welcome to my page for cat appreciation!
 
-Please find below links to highly recommended websites and videos.
+First things first, some of my favorite things about CS193:
+- Interactive Lectures (ex. Would you rather...)
+- Extra knowledge to help me in my other CS classes
+- Fun homework
 
-### Markdown
+Please find below links to highly recommended cat videos and websites.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Videos
 
-```markdown
-Syntax highlighted code block
+- [LIVE CAT TV 24/7](https://www.youtube.com/watch?v=UEyEs8AE1ss)
+- [20 Minutes of Adorable Kittens](https://www.youtube.com/watch?v=y0sF5xhGreA)
+- [**MUST WATCH!!!** Best Cat Compilation Out There](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
 
-# Header 1
-## Header 2
-### Header 3
+### Websites
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [My New Cat Rescue Adoption](https://mynewcat.org/): for adoption
+- [Lazy Cat Lounge](https://www.lazycatloungecafe.com/): cat cafe + adoption
